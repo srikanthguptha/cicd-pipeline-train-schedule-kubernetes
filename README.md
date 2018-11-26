@@ -12,4 +12,5 @@ You can run the app with:
 
     ./gradlew npm_start
 
+this is 
 Once it is running, you can access it in a browser at http://localhost:8080
